@@ -1,0 +1,6 @@
+credit card
+cvv
+ssn
+dob
+fullname
+address

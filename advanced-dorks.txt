@@ -1,0 +1,2 @@
+intitle:"index of" inurl:leak filetype:sql intext:"cvv"
+intitle:"index of" inurl:dump filetype:txt intext:"dob"
